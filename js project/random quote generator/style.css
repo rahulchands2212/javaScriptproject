@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  color: white;
+  
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
+#btn{
+  position: fixed;
+  bottom : 50px;
+  left : 500px;
+  height: 40px;
+  width: 250px;;
+}

@@ -1,0 +1,32 @@
+body {
+
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+button{
+  height : 100px;
+  width: 100px;
+}
+#red{
+  background-color: red;
+}
+
+#blue{
+  background-color: blue;
+}
+
+#yellow{
+  background-color: yellow;
+}
+
+#pink{
+  background-color:pink;
+}
+
+#green{
+  background-color: green;
+}
