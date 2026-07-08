@@ -1,0 +1,41 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#start {
+  margin-left: 80px;
+  margin-right: 10px;
+}
+
+.option {
+  height: 100px;
+  width: 50%;
+}
+
+.outdiv {
+  margin-top: 10px;
+  border: 2px solid white;
+  height: 420px;
+}
+
+.qdiv {
+  text-align: center;
+  margin: 10px;
+  border: 2px solid white;
+  height: 100px;
+  font-size: 30px;
+  padding-top: 40px;
+}
+
+.adiv {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 20px;
+  border: 2px solid white;
+  height: 200px;
+}
